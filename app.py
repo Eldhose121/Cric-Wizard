@@ -1,4 +1,4 @@
-from pyautogui import locateOnScreen
+from pyautogui import locateOnScreen, scroll
 from time import sleep
 from winsound import Beep
 from boltiot import Bolt
@@ -26,6 +26,7 @@ def main():
  if(msg['value']=='online'):
      online = True
  sleep(5)
+ scroll(-200)
  while True:
   try:
    wloc = locateOnScreen('images/wicket.png')

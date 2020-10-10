@@ -1,2 +1,2 @@
-API_KEY = ' '
-DEVICE_ID = ' '
+API_KEY = ''
+DEVICE_ID = ''
