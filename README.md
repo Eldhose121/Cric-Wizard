@@ -2,7 +2,7 @@
 
 ### By Team Zeta_Codinators
 
-  Cric-Wizard identifies important events in a cricket match for example when a six has been scored or if a wicket has been lost and alerts the user regarding the same. It is particularly useful if the user is concentrating on studies or some other work and would like to be notified of only the most important events without getting distracted from his/her work. It also helps avoid the need for mobile phones for the purpose which are quite distractive in nature. 
+  Cric-Wizard identifies important events in a cricket match for example when a six has been scored or if a wicket has been lost and alerts the user regarding the same. It is particularly useful if the user is concentrating on studies or some other work and would like to be notified of only the most important events without getting distracted from his/her work. It also helps avoid the need for mobile phones for this purpose, which are after all quite distractive in nature. 
 
 <br />
 
