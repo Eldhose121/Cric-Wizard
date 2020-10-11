@@ -1,2 +1,2 @@
-API_KEY = '9c8c9edd-132b-4d96-a92b-0089580ebd1a'
-DEVICE_ID = 'BOLT7420916'
+API_KEY = 'Your Bolt device API key'
+DEVICE_ID = 'Your Bolt device ID'
